@@ -4,5 +4,5 @@ I'm an **Engineer & AI/ML Enthusiast** passionate about transforming complex dat
 
 <p align="center">
     <a href="https://github.com/NicholasSend"><img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/NicholasSend?cardType=level-alternate&theme=github-dark&preferLogin=true"></a>
-    <a href="https://github.com/NicholasSend"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasSend&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/NicholasSend"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasSend&theme=dark&hide=cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
 </p>
